@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Responsive jQuery Slider with fadeIn and fadeOut effect</title>
 <link rel="shortcut icon" href="logos/favicon.ico" type="image/x-icon" />
-<script src="/jquery_slider_fade_effect/jquery-3.1.1.js" type="text/javascript"></script>
+<script src="/jquery_slider_fade_effect/jquery-1.12.0.js" type="text/javascript"></script>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link rel="stylesheet" type="text/css" href="/jquery_slider_fade_effect/css/main.css" />
